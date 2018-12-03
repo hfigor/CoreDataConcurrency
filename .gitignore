@@ -16,7 +16,7 @@ DerivedData/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-xcuserdata/
+*.xcuserdata/
 
 ## Other
 *.moved-aside
@@ -39,5 +39,5 @@ playground.xcworkspace
 # Packages/
 # Package.pins
 # Package.resolved
-.build/
+.build/*
 
