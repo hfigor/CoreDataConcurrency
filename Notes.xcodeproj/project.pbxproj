@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3CC4B7A521E3CDE20020AF7E /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3CC4B7A421E3CDE20020AF7E /* README.txt */; };
 		CC10B3B11F0E2191003E99D7 /* NoteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC10B3B01F0E2191003E99D7 /* NoteTableViewCell.swift */; };
 		CC10B3B41F0E292C003E99D7 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC10B3B31F0E292C003E99D7 /* Note.swift */; };
 		CC3EF4B41F0E8347002C6A1C /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3EF4B31F0E8347002C6A1C /* ColorViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3CC4B7A421E3CDE20020AF7E /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		CC10B3B01F0E2191003E99D7 /* NoteTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteTableViewCell.swift; sourceTree = "<group>"; };
 		CC10B3B31F0E292C003E99D7 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 		CC3EF4B31F0E8347002C6A1C /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 		CCBD72AE1F0CD14800B176D1 /* Notes */ = {
 			isa = PBXGroup;
 			children = (
+				3CC4B7A421E3CDE20020AF7E /* README.txt */,
 				CCBD72C11F0CD2B600B176D1 /* Application Delegate */,
 				CCBD72C21F0CD2BF00B176D1 /* View Controllers */,
 				CCBD72C41F0CD2D100B176D1 /* Storyboards */,
@@ -387,6 +390,7 @@
 				CC4DE09D1F0F6E3A00E3CB8D /* Tags.storyboard in Resources */,
 				CCBD72B71F0CD14800B176D1 /* Assets.xcassets in Resources */,
 				CCC815D01F0E6B5800370992 /* Categories.storyboard in Resources */,
+				3CC4B7A521E3CDE20020AF7E /* README.txt in Resources */,
 				CCBD72B51F0CD14800B176D1 /* Notes.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
